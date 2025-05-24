@@ -1,22 +1,24 @@
 # Weather-App
- A simple weather forecast application built with Python and Tkinter. It allows users to quickly check current weather conditions for any city through a clean and minimal GUI.
+Aplicativo de previsão do tempo desenvolvido com Python e Tkinter. Ele permite que os usuários verifiquem rapidamente as condições climáticas atuais de qualquer cidade por meio de uma interface gráfica limpa e minimalista.
 
-✨ Features
-Search weather by city name
+✨ Funcionalidades
 
-Displays temperature, feels-like temperature, humidity, and weather description
+Pesquisa de clima pelo nome da cidade
 
-Simple graphical interface using Tkinter
+Exibe temperatura, sensação térmica, umidade e descrição do clima
 
-Integrated with the OpenWeatherMap API
+Interface gráfica simples utilizando Tkinter
 
-🛠️ Technologies Used
+Integração com a API OpenWeatherMap
+
+🛠️ Tecnologias Utilizadas
+
 Python
 
-Tkinter (for GUI)
+Tkinter (para a interface gráfica)
 
-Requests (for HTTP requests)
+Requests (para requisições HTTP)
 
-OpenWeatherMap API
+API OpenWeatherMap
 
 WeatherAPI
